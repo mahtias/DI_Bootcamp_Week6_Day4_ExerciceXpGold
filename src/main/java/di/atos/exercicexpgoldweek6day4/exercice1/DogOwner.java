@@ -6,7 +6,7 @@ package di.atos.exercicexpgoldweek6day4.exercice1;
 
 /**
  *
- * @author ezekielkouassi
+ * @author Adonis 
  */
 public class DogOwner {
     

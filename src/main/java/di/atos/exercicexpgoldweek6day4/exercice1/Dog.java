@@ -4,11 +4,7 @@
  */
 package di.atos.exercicexpgoldweek6day4.exercice1;
 
-/**
- *
- * @author KONATE-MK
- *@date 29/01/2023
- */
+
 
 public class Dog {
     // TODO: declare an instance variable to hold the drinking time
@@ -39,8 +35,3 @@ public class Dog {
 }
 
 
-/**
- *
- * @author KONATE-MK
- *@date 29/01/2023
- */

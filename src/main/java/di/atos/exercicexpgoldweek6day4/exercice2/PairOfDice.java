@@ -7,11 +7,7 @@ package di.atos.exercicexpgoldweek6day4.exercice2;
 import java.util.Random;
 
 
-/**
- *
- * @author KONATE-MK
- *@date 29/01/2023
- */
+
 
 public class PairOfDice {
     private int die1;
@@ -53,8 +49,3 @@ public class PairOfDice {
 
 
 
-/**
- *
- * @author KONATE-MK
- *@date 29/01/2023
- */

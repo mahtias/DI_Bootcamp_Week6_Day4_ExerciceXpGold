@@ -7,11 +7,7 @@ package di.atos.exercicexpgoldweek6day4;
 import di.atos.exercicexpgoldweek6day4.exercice2.PairOfDice;
 
 
-/**
- *
- * @author KONATE-MK
- *@date 29/01/2023
- */
+
 
 public class ExerciceXpGoldWeek6Day4 {
 
@@ -22,8 +18,4 @@ public class ExerciceXpGoldWeek6Day4 {
 }
 
 
-/**
- *
- * @author KONATE-MK
- *@date 29/01/2023
- */
+
